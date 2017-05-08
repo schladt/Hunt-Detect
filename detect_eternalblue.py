@@ -1,5 +1,5 @@
 """
-Original Author : Luke Jennings
+Original Author : Luke Jennings (https://github.com/countercept/doublepulsar-detection-script)
 Updated By : Mike Schladt and Chris Boettcher
 MS17-010 Detection packet from Metasploit module smb_ms17_010.rb, by Sean Dillon <sean.dillon@risksense.com>
 """
